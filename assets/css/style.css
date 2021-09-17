@@ -1,0 +1,41 @@
+.space-m {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.space-xl {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.gray-1 {
+    filter: grayscale(100%);
+}
+.list-service {
+    line-height: 2;
+}
+.list-service > li {
+    background:transparent !important;
+    color: #fff;
+    border-color: #efecf3;
+    padding-left: 0px;
+    border-style: dashed;
+}
+.list-detail {
+    line-height: 2;
+}
+.list-detail > li {
+    background:transparent !important;
+    color: #fff;
+    border-color: #efecf3;
+    padding-left: 0px;
+    border-style: solid;
+}
+.list-admin {
+    line-height: 2;
+}
+.list-admin > a {
+    background:transparent !important;
+    color: #fff;
+    border-color: transparent !important;
+    padding-left: 0px;
+    border-style: solid;
+}
